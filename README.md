@@ -1,6 +1,6 @@
 # Reinforcement-learning
 
-This is a PyTorch implementation of reinforcement learning.
+This is a PyTorch implementation of Deep Q-Learning.
 
 ## Example (1)- A result from the Atari_Breakout.
 
