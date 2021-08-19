@@ -6,6 +6,9 @@ This is a PyTorch implementation of reinforcement learning.
 
 https://user-images.githubusercontent.com/48608835/129293272-7ab38bf0-b2d6-41e2-aebf-c641cfc92ab3.mp4
 
+<img src="https://user-images.githubusercontent.com/48608835/129293272-7ab38bf0-b2d6-41e2-aebf-c641cfc92ab3.mp4" width=550px>
+
+
 
 ## Example (2)- A result from the Cartpole.
 
