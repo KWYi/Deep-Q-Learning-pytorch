@@ -4,7 +4,7 @@ This is a PyTorch implementation of reinforcement learning.
 
 ## Example (1)- A result from the Atari_Breakout.
 
-https://user-images.githubusercontent.com/48608835/129293272-7ab38bf0-b2d6-41e2-aebf-c641cfc92ab3.mp4
+[! https://user-images.githubusercontent.com/48608835/129293272-7ab38bf0-b2d6-41e2-aebf-c641cfc92ab3.mp4 width=550px]
 
 <img src="https://user-images.githubusercontent.com/48608835/129293272-7ab38bf0-b2d6-41e2-aebf-c641cfc92ab3.mp4" width=550px>
 
