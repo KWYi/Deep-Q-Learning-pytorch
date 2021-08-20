@@ -11,8 +11,8 @@ Best eposide:
 
 https://user-images.githubusercontent.com/48608835/129293272-7ab38bf0-b2d6-41e2-aebf-c641cfc92ab3.mp4
 
-Learning scores
 
+Learning scores:
 <img src="https://user-images.githubusercontent.com/48608835/130166082-5cd812c8-ea23-4acf-82df-da0b5252bad2.png" width=880px>
 
 Blue line: Scores of training episode.
