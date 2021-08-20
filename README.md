@@ -15,11 +15,9 @@ https://user-images.githubusercontent.com/48608835/129293272-7ab38bf0-b2d6-41e2-
 
 <img src="https://user-images.githubusercontent.com/48608835/130166082-5cd812c8-ea23-4acf-82df-da0b5252bad2.png" width=680px>
 
-Blue line: Scores of training episode. \n
-Magenta line: Mean scores of last 100 training episode. \n
+Blue line: Scores of training episode.  
+Magenta line: Mean scores of last 100 training episode.  
 Red star: Scores of target agent.
-
-
 
 ## Example (2)- A result from the Cartpole.
 
