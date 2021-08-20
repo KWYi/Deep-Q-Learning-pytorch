@@ -4,7 +4,7 @@ This is a PyTorch implementation of Deep Q-Learning.
 
 ## Example (1)- A result from the Atari_Breakout.
 
-Experience memory capacity: 80000 set
+Experience memory capacity: 80000 set  
 Random action ratio: from 1.0 to 0.1 through 1000000 frames
 
 ### Best eposide:
