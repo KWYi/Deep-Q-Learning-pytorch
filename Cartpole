@@ -90,7 +90,7 @@ class DQN(nn.Module):
         return self.head(x.view(x.size(0), -1))
 
 
-############### Inpit extraction #############
+############### Input extraction #############
 
 resize = T.Compose([T.ToPILImage(),
                     T.Resize(40, interpolation=Image.CUBIC),
